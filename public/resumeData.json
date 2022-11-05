@@ -1,0 +1,147 @@
+{
+  "main": {
+    "name": "Fahad Ali",
+    "image": "profile.jpeg",
+    "bio": "Hey, I am Fahad Ali! I am a Software Engineer and tech enthusiast. I am skilled at competitive programming and Web development. Currently exploring more about technology.",
+    "contactmessage": "Get in touch with me.",
+    "email": "alifahad2210@gmail.com",
+    "phone": "+91 8800107393",
+    "address": {
+      "street": "Old Karimganj",
+      "city": "Gaya",
+      "state": "Bihar",
+      "zip": "823001"
+    },
+    "website": "#",
+    "resumedownload": "https://drive.google.com/file/d/1d-IdQXfpLQlsT5XstXKaw96vaG-4cFUY/view?usp=sharing",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/fahad-a-077aa7135/",
+        "className": "fa fa-linkedin" 
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/imf-ali",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/imf_ali/",
+        "className": "fa fa-instagram" 
+      },
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/imf_ali",
+        "className": "fa fa-twitter"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Indian Institute of Information Technology Allahabad",
+        "degree": "B.Tech, Information Technology,",
+        "graduated": "2018-2022",
+        "description": ""
+      },
+      {
+        "school" : "Manav Bharti National School",
+        "degree" :"Intermediate",
+        "graduated": "2018",
+        "description": ""
+       },
+       {
+        "school" : "Creane Memorial High School",
+        "degree" :"Matriculation",
+        "graduated": "2016",
+        "description": ""
+       }
+    ],
+    "work": [
+      {
+        "company": "Apps Review Analysis",
+        "title": "Data Analysis",
+        "years": "April 2021",
+        "description": "A script that helps the developer to know the pros and cons of an app and modify their app accordingly."
+      },
+      {
+        "company": "GTorrent",
+        "title": "HTML, CSS, Django",
+        "years": "November 2019",
+        "description": "A large file is divided in parts and is uploaded to different drive accounts."
+      },
+      {
+        "company": "Pneumonia Detection",
+        "title": "Machine Learning, Image Processing",
+        "years": "November 2019",
+        "description": "A python script which helps to detect the pneumonia using the X-Ray imaging of chest."
+      },
+      {
+        "company": "Platform for online coding",
+        "title": "HTML, CSS, Django",
+        "years": "Aug 2018",
+        "description": "In this project an online platform was made like udemy where instructors can upload their courses and view them."
+      },
+      {
+        "company": "Weather App",
+        "title": "HTML, CSS, Django, Mapbox API, WeatherStack API",
+        "years": "Feb 2020",
+        "description": "This is a personal project that I made which gives current weather forecast based on the query of a place."
+      }
+    ],
+    "skills": [
+      {
+        "name": "C/C++",
+        "level": "90%"
+      },
+      {
+        "name": "Data Structures and Algorithms",
+        "level": "90%"
+      },
+      {
+        "name": "Java,",
+        "level": "80%"
+      },
+      {
+        "name": "Python",
+        "level": "75%"
+      },
+      {
+        "name": "Node.js,Express.js, Spring Boot",
+        "level": "80%"
+      },
+      {
+        "name": "MySQL, MongoDB, PostgresSQL",
+        "level": "70%"
+      },
+      {
+        "name": "React, HTML, CSS, JavaScript",
+        "level": "85%"
+      },{
+        "name": "Docker, Kubernetes",
+        "level": "70%"
+      },{
+        "name": "Jenkins",
+        "level": "60%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Interview Scheduling App",
+        "category": "MERN Stack",
+        "image": "room.png",
+        "url": "https://ali-web-chat-app.herokuapp.com/"
+      },
+      {
+        "title": "Netflix-Frontend",
+        "category": "Web Development",
+        "image": "wea.png",
+        "url": "http://ali-weather-webapp.herokuapp.com/"
+      }
+    ]
+  }
+}
